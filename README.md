@@ -23,4 +23,4 @@ To run the project and train the neural network model:
 * requirements.txt: File listing the required Python libraries and their versions.
 
 ## Contributors
-Utkarsh Singh
+SS
